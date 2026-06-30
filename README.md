@@ -1,6 +1,18 @@
-# Claude Code Windows Installer (PowerShell) - First and Final v1.0
+<div align="center">
 
-A professional and robust PowerShell script to install the Claude Code CLI on 64-bit Windows 10/11 machines. It offers multiple installation methods—Native self-contained binary, WinGet, and NPM—and ensures the environment PATH variables are correctly updated.
+# Claude Code Windows Installer (PowerShell)
+First and Final v1.0
+
+### A professional and robust PowerShell script to install the Claude Code CLI on 64-bit Windows 10/11 machines. It offers multiple installation methods—Native self-contained binary, WinGet, and NPM—and ensures the environment PATH variables are correctly updated.
+
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+![platform](https://img.shields.io/badge/platform-Claude-black)
+![surface](https://img.shields.io/badge/install-file--based%20(no%20runtime)-lightgrey)
+
+</div>
+
+---
 
 ## Features
 
