@@ -8,7 +8,6 @@ First and Final v1.0
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![platform](https://img.shields.io/badge/platform-Claude-black)
-![surface](https://img.shields.io/badge/install-file--based%20(no%20runtime)-lightgrey)
 
 </div>
 
